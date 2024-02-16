@@ -1,0 +1,14 @@
+{
+  "name": "sanber-javascript-pt1",
+  "version": "1.0.0",
+  "description": "Aplikasi belajar Javascript sanbercode pt1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rifalf",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
